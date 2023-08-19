@@ -1,0 +1,76 @@
+.bg-image{
+    background-image:url(./Rinovirus1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 6vh;
+   
+}
+
+.letter{
+    color: #fff;
+    display: flex;
+    justify-content: left;
+    align-items:center;
+    font-family: 'Domine';
+
+}
+.wrapper{
+    margin:30px auto;
+    width:90%;
+}
+h2{
+    padding-top:8px;
+    font-family: 'Gloock', serif;
+    color: rgb(13, 14, 13);
+    text-transform: capitalize;
+    
+}
+
+.img-box{
+    max-width:300px;
+    float:right;
+    margin-left: 10px;
+}
+p{
+ font-family: 'Domine', serif;
+    
+}
+ul{
+    font-family: 'Domine', serif;
+}
+b{
+    font: size 20px;
+    color: rgb(252, 41, 41);
+}
+
+
+#h1{
+    
+    font-family: 'Domine', serif;
+
+}
+.treatment{
+    color:rgb(3, 104, 70);
+}
+.un-order{
+    color:rgb(11, 128, 238);
+    font-size:20px;
+}
+.paragraph{
+    font-size:20px;
+}
+.card{
+    transition: all 0.3s;
+}
+.card:hover{
+    transform: scale(1.10);
+}
+.text-box9{
+    font-size:20px;
+}
+.text-box11{
+    font-size:20px;
+}
+.p{
+    color:black;
+}
